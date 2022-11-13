@@ -1,30 +1,22 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 0: November 12, 2022 (Hangount Game with Vite-React-Typescript)
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Got game working based on WDS's tutorial
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** I was happy with the simplicity and practicality of Vite.js for setting up React projects and the Hangman game was a fun project to work with.
+Beyond the defined React project stucture with TypeScript, coding with TypeScrit in this project wasn't really that different that doing it with JavaScript. This may be much more different in other projects.
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work:** [Hangman Game with Vite-React-TypeScript](https://github.com/aortizpalma/React-TypeScript-Hangman-Game)
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+### Day 1: November 13, 2022 (Setting up 100-days-of-code repo and plan)
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Setting up things to continue with the 100-days-of-code challenge
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** I'll try to keep up with the log and I'll be working on several items, such as:
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+- continue with a React Native project
+- practice React projects, both with JS and Typescript
+- practice JS, TS, Python and C# exercises
 
-
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Link to work:** [100-days-of-code log](https://github.com/aortizpalma/100-days-of-code/blob/master/log.md)
