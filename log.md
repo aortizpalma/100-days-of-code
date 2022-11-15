@@ -34,8 +34,9 @@ I found and got enrolled into a Unity Game Dev course which starts in January an
 - got some necessary OS and software updates installed
 - got an interesting and solid plan for progressing learning Unity and Game Dev (a bit down the road, till the Q1 2023)
 
+**Link to work:**
+
+<li> <a href="https://www.coderhouse.com.mx/online/desarrollo-videojuegos-online" target="_blank">Unity Game Dev Course</a> </li>
+<li> <a href="https://drive.google.com/file/d/1qW8JZmEA5R3nv-qEdMScnm9kREBZZozI/view" target="_blank">12-week study plan</a> </li>
+
 **Link to work:** [Mimo exercises](https://getmimo.com/playgrounds)
-
-**Link to work:** [Unity Game Dev Course](https://www.coderhouse.com.mx/online/desarrollo-videojuegos-online)
-
-- [12-week study plan](https://drive.google.com/file/d/1qW8JZmEA5R3nv-qEdMScnm9kREBZZozI/view)
