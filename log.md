@@ -29,10 +29,13 @@ I found and got enrolled into a Unity Game Dev course which starts in January an
 
 **Thoughts:** I had moderate progress today but I did manage to achieve a few things:
 
-- got Android VDM working again and running my React Native demo :D
+- got Android VDM working again and running [my React Native demo :D](https://github.com/aortizpalma/100-days-of-code/blob/master/assets/AndroidVDM_working.png)
 - refreshed some HTML basics
 - got some necessary OS and software updates installed
 - got an interesting and solid plan for progressing learning Unity and Game Dev (a bit down the road, till the Q1 2023)
 
 **Link to work:** [Mimo exercises](https://getmimo.com/playgrounds)
+
 **Link to work:** [Unity Game Dev Course](https://www.coderhouse.com.mx/online/desarrollo-videojuegos-online)
+
+- [12-week study plan](https://drive.google.com/file/d/1qW8JZmEA5R3nv-qEdMScnm9kREBZZozI/view)
