@@ -40,3 +40,21 @@ I found and got enrolled into a Unity Game Dev course which starts in January an
 <li> <a href="https://drive.google.com/file/d/1qW8JZmEA5R3nv-qEdMScnm9kREBZZozI/view" target="_blank">12-week study plan</a> </li>
 
 **Link to work:** [Mimo exercises](https://getmimo.com/playgrounds)
+
+### Day 3: November 15, 2022 (React Hooks practice, Troubleshooting VDM)
+
+**Today's Progress**:
+
+- Resumed some exercises to practice and get familiar with multiple React Hooks. Started with useState.
+
+- Troubleshooted again some issues with Android Studio's Virtual Device Manager.
+
+- Found a new interesting tutorial to continue practicing React with TypeScript.
+
+**Thoughts:** Issues with Android studio's VDM seem to be frequent and quite annoying to solve. I will explore the option of using a physical device instead when working with React Native projects.
+
+It was nice and fun to resume the React Hooks course to refresh some knowledge and get familiar with some rarely used hooks.
+
+**Link to work:**
+
+- [React Hooks practice](https://github.com/aortizpalma/react_hooks_practice)
