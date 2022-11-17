@@ -58,3 +58,17 @@ It was nice and fun to resume the React Hooks course to refresh some knowledge a
 **Link to work:**
 
 - [React Hooks practice](https://github.com/aortizpalma/react_hooks_practice)
+
+### Day 4: November 16, 2022 (React Hooks practice)
+
+**Today's Progress**:
+
+- Practiced useEffect and useContext hooks.
+
+**Thoughts:** useContext seems to be a relatively much simpler approach than Redux to pass data and states across components in not-to-complex applications.
+
+useEffect is by far one of the most useful hooks to faciliate user interactions based on specific actions.
+
+**Link to work:**
+
+- [React Hooks practice](https://github.com/aortizpalma/react_hooks_practice)
